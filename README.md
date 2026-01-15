@@ -1,2 +1,2 @@
 # ML-Invest
-ML models with XAI on S&amp;P 500 index
+Machine Learning models with Explainable AI (XAI) on S&P 500 index
